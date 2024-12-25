@@ -1,0 +1,32 @@
+[{
+  "_id": {
+    "$oid": "676c1877a7485927ea9fd69b"
+  },
+  "Product_Type": "Beverage",
+  "Product_Name": "Pulpy",
+  "Price": "Rp.10.000"
+},
+{
+  "_id": {
+    "$oid": "676c249aa7485927ea9fd69c"
+  },
+  "Product_Type": "Beverage",
+  "Product_Name": "Mizone",
+  "Price": "Rp.6.000"
+},
+{
+  "_id": {
+    "$oid": "676c249aa7485927ea9fd69d"
+  },
+  "Product_Type": "Snack",
+  "Product_Name": "Ring",
+  "Price": "Rp.9.000"
+},
+{
+  "_id": {
+    "$oid": "676c282da7485927ea9fd69e"
+  },
+  "Product_Type": "Snack",
+  "Product_Name": "Garuda",
+  "Price": "Rp.15.000"
+}]
